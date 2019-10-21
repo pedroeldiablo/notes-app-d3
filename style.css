@@ -45,3 +45,17 @@ button:hover {
 button:focus {
   outline: none;
 }
+
+.hide {
+  display: none;
+}
+
+.preview {
+  background-color: green;
+  box-sizing: border-box;
+  margin: 1em auto;
+  width: 75%;
+  border: 8px solid #d4daa7;
+  border-radius: 8px;
+  padding: 10px;
+}
